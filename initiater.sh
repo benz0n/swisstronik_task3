@@ -46,6 +46,7 @@ module.exports = {
   },
 };
 EOL
+
 echo "Hardhat configuration completed."
 
 read -p "Enter the NFT name: " NFT_NAME
